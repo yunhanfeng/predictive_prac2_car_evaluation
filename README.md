@@ -5,3 +5,6 @@ UCI Machine Learning Repository: Car Evaluation Dataset is quite a clean data se
 https://archive.ics.uci.edu/ml/datasets/car+evaluation
 
 I use several simple predictive modeling methods to polish my skill in dealing with classificatiion problem.
+
+
+Team member: Phoebe Chang, Muyu Yan
